@@ -1,7 +1,17 @@
 # SecureMinder
 
-SecureMinder is an independent security research organization focused on Kubernetes, cloud infrastructure, and the systems that run on top of them.
+We believe learning security should be accessible to everyone, so we're building free, open-source learning paths with clear explanations, practical examples, and hands-on labs.
 
-We publish our research openly, contribute to the projects we study, and build practical work around the problems we find.
+Our work focuses on three areas:
 
-If you want to support independent security research and help us keep this work open, you can sponsor SecureMinder through GitHub Sponsors.
+- **AI Security:** Understand how AI systems can be attacked and how to protect them.
+- **Bug Bounty:** Learn to discover, understand, and responsibly report security vulnerabilities.
+- **Kubernetes Security:** Learn to secure containers, clusters, and cloud-native infrastructure.
+
+Everything we publish is free to read, practice, and share under the project's open-source licenses.
+
+### Get involved
+
+You can explore the lessons, contribute on GitHub, or help us keep security education free through GitHub Sponsors.
+
+**[Visit SecureMinder](https://secureminder.com)** · **[Explore the curriculum](https://github.com/secureminder/free-security-education)**
