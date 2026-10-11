@@ -1,18 +1,40 @@
 # SecureMinder
 
-We believe learning security should be accessible to everyone, so we're building free, open-source learning paths with clear explanations, practical examples, and hands-on labs.
+SecureMinder is the home of Open Security Education. The lessons explain
+security in everyday English and include labs where you can try each idea
+yourself.
 
-Our work focuses on three areas:
+## Start Learning
 
-- **AI Security:** Understand how AI systems can be attacked and how to protect them.
-- **Bug Bounty:** Learn to discover, understand, and responsibly report security vulnerabilities.
-- **Kubernetes Security:** Learn to secure containers, clusters, and cloud-native infrastructure.
-- **Penetration Testing**: Learn to assess networks, systems, and applications, identify security weaknesses, and verify their impact through hands-on testing.
+- **[Penetration Testing](https://secureminder.com/penetration-testing/):**
+  Learn how to test approved networks, systems, applications and cloud
+  services safely.
+- **[Bug Bounty](https://secureminder.com/bug-bounty/):** Learn how to find and
+  report security problems in websites and APIs.
+- **[Kubernetes Security](https://secureminder.com/kubernetes-security/):**
+  Learn where Kubernetes clusters can go wrong and how to secure them.
+- **[AI Security](https://secureminder.com/ai-security/):** Learn how AI
+  applications can be tricked and how to make them safer.
 
-Everything we publish is free to read, practice, and share under the project's open-source licenses.
+The full curriculum is available in the
+[Open Security Education repository](https://github.com/secureminder/open-security-education).
 
-### Get involved
+## Meet the Mascots
 
-You can explore the lessons, contribute on GitHub, or help us keep security education free through GitHub Sponsors.
+Each learning path has its own mascot:
 
-**[Visit SecureMinder](https://secureminder.com)** · **[Explore the curriculum](https://github.com/secureminder/free-security-education)**
+- **Aiko:** The purple AI Security robot
+- **Buggie:** The orange Bug Bounty detective
+- **Scout:** The yellow Penetration Testing explorer
+- **Kubi:** The turquoise Kubernetes Security cube robot
+
+## About
+
+SecureMinder is the main project and website, while Open Security Education is
+its public curriculum. The project was created and is written by
+[Gulcan Topcu](https://github.com/topcug), a Kubernetes and Security Engineer.
+
+You can improve a lesson on GitHub or
+[support the project through GitHub Sponsors](https://github.com/sponsors/secureminder).
+
+**[Visit SecureMinder](https://secureminder.com)**
