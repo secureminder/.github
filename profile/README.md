@@ -1,8 +1,10 @@
 # SecureMinder
 
-SecureMinder is the home of Open Security Education. The lessons explain
-security in everyday English and include labs where you can try each idea
-yourself.
+![SecureMinder - Open Security Education](assets/secureminder_logo.svg)
+
+SecureMinder is a hands-on security education project. 
+
+**[Visit SecureMinder](https://secureminder.com)**
 
 ## Start Learning
 
@@ -29,14 +31,3 @@ They are learning too, and each one is curious about something different:
 - **Scout:** Carries a magnifying glass, a notebook, and written permission.
 - **Kubi:** Started with one YAML file and is still looking for the missing
   space.
-
-## About
-
-SecureMinder is the main project and website, while Open Security Education is
-its public curriculum. The project was created and is written by
-[Gulcan Topcu](https://github.com/topcug), a Kubernetes and Security Engineer.
-
-You can improve a lesson on GitHub or
-[support the project through GitHub Sponsors](https://github.com/sponsors/secureminder).
-
-**[Visit SecureMinder](https://secureminder.com)**
