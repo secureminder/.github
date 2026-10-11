@@ -19,14 +19,16 @@ yourself.
 The full curriculum is available in the
 [Open Security Education repository](https://github.com/secureminder/open-security-education).
 
-## Meet the Mascots
+## Meet the Curious Crew
 
-Each learning path has its own mascot:
+They are learning too, and each one is curious about something different:
 
-- **Aiko:** The purple AI Security robot
-- **Buggie:** The orange Bug Bounty detective
-- **Scout:** The yellow Penetration Testing explorer
-- **Kubi:** The turquoise Kubernetes Security cube robot
+- **Aiko:** Asked the AI one question and came back with twelve more.
+- **Buggie:** Notices the button everyone else ignores and has to find out what
+  it does.
+- **Scout:** Carries a magnifying glass, a notebook, and written permission.
+- **Kubi:** Started with one YAML file and is still looking for the missing
+  space.
 
 ## About
 
